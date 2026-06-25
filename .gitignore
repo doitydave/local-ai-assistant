@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets — never commit
+token.txt
+*.token
+.env
+
+# Local data / generated
+store.json
+materials/
